@@ -1,1 +1,0 @@
-With the default sine magnitude (experiment_1) the calibration results where horrible - the trim  value had even a wrong sign. By doubling (experiment_2) or halving (experiment_3) the magnitude the results where significantly better yielding similar values for both gain and trim.

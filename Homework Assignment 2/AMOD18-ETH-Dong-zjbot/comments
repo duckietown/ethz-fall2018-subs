@@ -1,7 +1,0 @@
-I have already finished the wheel calibration. However, when I conduct the system identification, the duckiebot sometimes may run in a curve. I think it is affected by the rough surface and irregularities of the floor. 
-
-I have repeated the system identification for 5 times and I found the effect of USB is also important. When we run the duckiebot continuously for many times, the USB will produce much heat. Because of that, some data will be lost. This will finally affect the optimization process.
-
-By doing many experiments, the trim values change a lot due to different sine wave's amplitudes. If we choose larger amplitude, the value of the trim becomes larger. I think the reason is that when the velocity of the duckiebot becomes larger, they will deviate from the regular routines more easily and then the optimization will obtain larger trim value. 
-
-When we increase the amplitude of the sine wave, the predict optimization will become closer to the measured data points. I think the reason is that when increase the velocity, the camera obtains more valid measured points and then makes the optimization effective. 

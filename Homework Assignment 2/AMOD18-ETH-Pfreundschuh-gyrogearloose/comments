@@ -1,2 +1,0 @@
-I used the parameters provided for the ramp and used different values for the amplitude of the sinusoidal curve. I used : 0.04 , 0.06 and 0.08. 
-Unfortunately my duckiebot was not able to record a complete rosbag, such that all rosbag were missing a lot of images. Thus, I could not get any meaningful results out of the optimization and the trim and gain parameter do not make sense. Due to the same reason, I also can not make ayn assumptions on how a bigger and smaller amplitude influences the result of the optimization.

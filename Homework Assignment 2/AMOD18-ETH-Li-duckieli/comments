@@ -1,9 +1,0 @@
-The duckiebot was already driving in a very straight line without any adjustments, hence the system ID process yielded results that depended more on the irregularities of the floor than the system dynamics.
-
-I repeated the process several times: The gain value was consistently around 1.0, the trim value was for most cases between -0.02 and 0.02.
-
-The size of the sine wave's amplitude correlated with the variance of the trim values - the bigger the amplitude, the bigger the differences of the resulting trim values. I assume this is due to two factors: 
-
-1) The velocity of the duckiebot seems to be greater for bigger amplitudes, causing the duckiebot to be thrown off course by the irregularities of the floor, more so than for lower velocities. 
-2) The path is longer, causing the drift to accumulate.
-3) The constant swerving causes a blurry image and the checkerboard pattern is less often recognized or with less accuracy.

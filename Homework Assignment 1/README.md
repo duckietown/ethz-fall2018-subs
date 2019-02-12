@@ -19,7 +19,7 @@ Note that bad one-shot localization can be a result of putting your Duckiebot on
 |--------------|------------------------------------------------------------------|
 | Ahmed        | repeat                                                           |
 | Berdou       | repeat                                                           |
-| Bernasconi   | not submitted                                                    |
+| Bernasconi   | okeyish                                                          |
 | Camus        | repeat                                                           |
 | Firynowicz   | okeyish                                                          |
 | Franzmeyer   | okeyish                                                          |
@@ -40,15 +40,15 @@ Note that bad one-shot localization can be a result of putting your Duckiebot on
 | Oort Alonso  | repeat                                                           |
 | Petrov       | okeyish                                                          |
 | Pfreundschuh | repeat                                                           |
-| Picquet      | not submitted                                                    |
+| Picquet      | okeyish                                                          |
 | Prajapat     | okeyish                                                          |
 | Roumie       | repeat                                                           |
-| Schaefer     | repeat, maybe without other Duckiebots around                    |
+| Schaefer     | okeyish                                                          |
 | Shah         | okeyish                                                          |
-| Suri         | repeat                                                           |
+| Suri         | good                                                             |
 | Tintore      | repeat, avoid the other roads on the sides                       |
-| Torrente     | this is not the one-shot localization                            |
-| Vazquez      | repeat, not enough segments detected                             |
+| Torrente     | okeyish                                                          |
+| Vazquez      | okeyish                                                          |
 | Xiao         | not submitted                                                    |
-| Zhou         | repeat, use the right lane, use a clean straight stretch of road |
+| Zhou         | okeyish                                                          |
 | Zijian       | good                                                             |

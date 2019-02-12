@@ -46,7 +46,7 @@ Note that bad one-shot localization can be a result of putting your Duckiebot on
 | Schaefer     | okeyish                                                          |
 | Shah         | okeyish                                                          |
 | Suri         | good                                                             |
-| Tintore      | repeat, avoid the other roads on the sides                       |
+| Tintore      | good                                                             |
 | Torrente     | okeyish                                                          |
 | Vazquez      | okeyish                                                          |
 | Xiao         | not submitted                                                    |

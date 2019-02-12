@@ -1,0 +1,32 @@
+Sampling : 1 (default)
+Delay : 2.0
+Omega : 100 (default)
+
+No significant changes are observed. I observe less oscillations but more overshoots.
+
+Sampling : 4
+Delay : 0.0 (default)
+Omega : 20 
+
+No significant changes are observed. 
+
+Sampling : 5
+Delay : 0.0 (default)
+Omega : 100 
+
+No significant changes are observed. My omegas values showed in the terminal have a maximum of 3 so having a max at 100 has no effect.
+
+Sampling : 4
+Delay : 1.0 (default)
+Omega : 1
+
+The duckiebot is out of control!
+
+
+Sampling : 1
+Delay : 0.0 (default)
+Omega : 2
+
+The duckiebot is not able to complete the turn. The limit on the omega prevents it from doing narrow turns
+
+

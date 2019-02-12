@@ -1,0 +1,8 @@
+Dear Dr. Tani
+
+As briefly discussed today after the AMoD lecture, my duckiebot didn't want to run the autonomous mode from exercise 3 properly. After trying several hours on my own and then some more with the TAs, we did not find out where this error originates and were not able to fix it, also after re-setting-up the container again from blank. As discussed today, that's why my submission will only contain a controller file (untested) and no videos. Following your suggestion, I will try to use someone else's SD card on my duckiebot to rule out that it is a hardware problem which might be crucial for further exercises.
+
+Thank you for your understanding.
+
+Best regards and a nice evening,
+Victor
